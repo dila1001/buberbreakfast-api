@@ -12,7 +12,7 @@ var app = builder.Build();
 
 
 {
-    app.UseExceptionHandler("/error");
+    app.UseExceptionHandler("/error"); // catches uncaught errors
     app.UseHttpsRedirection();
     app.MapControllers();
     app.Run();
