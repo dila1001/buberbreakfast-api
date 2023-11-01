@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GEKNFEe333oBvKfn9bCVC2d0FkZDw/nZsW8DhjZHfe4zSbU68SV4gmgHT4M78M4T1F3IVpAQTrp+azIIRTCHWA==",
+  "dgSpecHash": "vMWmUPHnhBfZ+O8LFqBA2xhOiZR1GDITEWm0MoClE3ygkiK3hYO4CiOv+cxYZQQ/RtgG+0Xn7E/ndJQKQlTkkw==",
   "success": true,
   "projectFilePath": "/Users/adilarazmi/salt/precourse/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/adilarazmi/.nuget/packages/microsoft.netcore.app.ref/6.0.24/microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "/Users/adilarazmi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
